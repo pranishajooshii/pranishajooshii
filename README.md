@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pranishajooshii
-- 👀 I’m interested in korean dramming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on -not yet
-- 📫 How to reach me -after I am capable
+- 👀 I’m interested in backend developmemt.
+- 🌱 I’m currently learning Django
+- 📫 You can reach me via linkedin and email.
 
 <!---
 pranishajooshii/pranishajooshii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
